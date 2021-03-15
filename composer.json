@@ -1,6 +1,6 @@
 {
     "name": "casbin/codeigniter-permission",
-    "description": "Associate users with roles and permissions, use Casbin in CodeIgniter4 Web Framework.",
+    "description": "Associate users with roles and permissions, use Casbin in CodeIgniter3 Web Framework.",
     "authors": [
         {
             "name": "TechLee",
@@ -23,7 +23,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "codeigniter4/framework": "^4",
+        "codeigniter4/framework": "^3",
         "casbin/casbin": "^2.0",
         "casbin/psr3-bridge": "^1.1"
     },
